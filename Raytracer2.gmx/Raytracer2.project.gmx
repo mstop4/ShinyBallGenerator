@@ -11,6 +11,7 @@
     <sound>sound\snd_died</sound>
     <sound>sound\snd_start</sound>
     <sound>sound\snd_fanfare</sound>
+    <sound>sound\snd_bgm</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_ball_ambient</sprite>
