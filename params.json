@@ -1,0 +1,6 @@
+{
+  "name": "Shiny Ball Generator",
+  "tagline": "Custom raytracer written in GML. Comes with bonus game!",
+  "body": "# Shiny Ball Generator\r\nA **custom raytracer** written in **GML**. Runs a simple Asteroid clone in the foreground to allow you to kill some time while the scene renders in the background.\r\n\r\n**Stable:** *[2.1.1](https://github.com/mstop4/ShinyBallGenerator/releases/tag/2.1.1)* - Windows, Mac, Linux  ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
