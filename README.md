@@ -10,7 +10,7 @@ A **custom raytracer** written in **GML**. Runs a simple Asteroid clone in the f
 
 ## Screenshots
 
-<table border="0">
+<!--<table border="0">
     <tr>
         <td><img src="screenshots/2.png" width=100%></td>
         <td><img src="screenshots/3.png" width=100%></td>
@@ -19,4 +19,8 @@ A **custom raytracer** written in **GML**. Runs a simple Asteroid clone in the f
         <td><img src="screenshots/5.png" width=100%></td>
         <td><img src="screenshots/4.png" width=100%></td>
     <tr>
-</table>
+</table>-->
+
+|![Screenshot](screenshots/2.png)|![Screenshot](screenshots/3.png)|
+|--------------------------------|--------------------------------|
+|![Screenshot](screenshots/5.png)|![Screenshot](screenshots/4.png)|
