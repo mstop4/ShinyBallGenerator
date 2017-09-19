@@ -2,4 +2,4 @@
 * text=auto
 
 # ignore file for linguist
-*.nsi linguist-vendored
+# *.nsi linguist-vendored
